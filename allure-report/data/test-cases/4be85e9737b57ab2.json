@@ -1,0 +1,58 @@
+{
+  "uid" : "4be85e9737b57ab2",
+  "name" : "Open Google",
+  "fullName" : "Dummy test.Open Google",
+  "historyId" : "8415e75909d6cd87898376e3f2bd7853",
+  "time" : {
+    "start" : 1605039749838,
+    "stop" : 1605039749840,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dummy test"
+  }, {
+    "name" : "testClass",
+    "value" : "Dummy test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Google"
+  }, {
+    "name" : "package",
+    "value" : "Dummy test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-86.0.4240.183"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4be85e9737b57ab2.json",
+  "parameterValues" : [ "chrome-86.0.4240.183" ]
+}

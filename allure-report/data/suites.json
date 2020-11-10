@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Dummy test",
+    "children" : [ {
+      "name" : "Open Google",
+      "uid" : "4be85e9737b57ab2",
+      "parentUid" : "01f3e84e3609f6e262b8d39b205b6d84",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605039749838,
+        "stop" : 1605039749840,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-86.0.4240.183" ]
+    } ],
+    "uid" : "01f3e84e3609f6e262b8d39b205b6d84"
+  } ]
+}

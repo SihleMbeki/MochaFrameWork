@@ -1,0 +1,11 @@
+[ {
+  "uid" : "4be85e9737b57ab2",
+  "name" : "Open Google",
+  "time" : {
+    "start" : 1605039749838,
+    "stop" : 1605039749840,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
